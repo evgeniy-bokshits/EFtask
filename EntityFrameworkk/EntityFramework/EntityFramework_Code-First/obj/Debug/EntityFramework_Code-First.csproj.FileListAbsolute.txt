@@ -1,0 +1,11 @@
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\obj\Debug\EntityFramework_Code-First.csproj.GenerateResource.Cache
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\obj\Debug\EF_Code-First_Charniauski.exe
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\obj\Debug\EF_Code-First_Charniauski.pdb
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\bin\Debug\EF_Code-First_Charniauski.exe.config
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\bin\Debug\EF_Code-First_Charniauski.exe
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\bin\Debug\EF_Code-First_Charniauski.pdb
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\bin\Debug\EntityFramework.dll
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\bin\Debug\EntityFramework.xml
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzmitry_Famenka\Desktop\Tanti-ef-5b7501f1e9b8\Task13_EntityFramework\EntityFramework_Code-First\obj\Debug\EntityFramework_Code_First.Migrations.add_NEWCredit_Cards_table.resources
